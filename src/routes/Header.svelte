@@ -38,7 +38,7 @@
     <ul>
       <li><a href="/">Home</a></li>
       <li><a href="/about">About</a></li>
-      <li><a href="/commands">Commands</a></li>
+      <li><a href="https://wrigglysplash.gitbook.io/milton-documentation/commands/moderation">Commands</a></li>
       <li><a href="/help">Help</a></li>
       <li><a href="/premium">Premium</a></li>
       <li><a href="/dashboard">Dashoard</a></li>
